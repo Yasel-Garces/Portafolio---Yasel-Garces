@@ -1,0 +1,67 @@
+# main text of home
+name: Claudia Perez
+bio: Passionate and creative Data Analyst
+external-image: true
+picture: image/c.png
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: resume/cv.pdf
+url: https://claudia-perez-ruisanchez.github.io/portfolio
+
+permalink: /:title/
+
+linkedin: claudiaperezruisanchez
+github: Claudia-Perez-Ruisanchez
+email: 88c.ruisanchez@gmail.com
+
+authors:
+    name: Claudia Perez
+    external-image: false
+    picture: image/c.png
+    #twitter: johndoe
+ 
+
+# do you want a larger site? change the option below
+#normal = 560px / large = 810px
+width: normal
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+#blog: false
+
+# show author block at the end of a post ?
+show-author: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+  - jekyll-paginate-v2
+
+jekyll-mentions:
+  base_url: https://github.com
+
+compress_html:
+  ignore:
+    envs:
+      - development
+      - stage
+
+exclude:
+  [
+    "travis.sh",
+    "README.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "FAQ.md",
+    "node_modules",
+    "vendor",
+  ]
