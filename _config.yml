@@ -24,8 +24,8 @@ authors:
  
 
 # do you want a larger site? change the option below
-normal = 560px / large = 810px
-#width: normal
+#normal = 560px / large = 810px
+width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
