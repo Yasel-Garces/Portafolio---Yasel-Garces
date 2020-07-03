@@ -2,14 +2,14 @@
 name: Yasel Garces
 bio: I am a data scientist with +8 years of work experience in Machine Learning, Statistics and Data Coding. I have a critical thinking, and I am always compromised to bring fast, smart and innovative solutions to complex problems. I am a passionate and lover of the scientific challenges, I have a Ph.D. Degree in Computer Science and Mathematics, with an advanced formation in statistics learning and programming. Linguistic knowledge to write and speak fluent English and Spanish. Good Team Member/Leader. 
 external-image: true
-picture: image/c.png
+picture: image/Yasel_Image.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
 resume-url: resume/cv.pdf
-url: https://claudia-perez-ruisanchez.github.io/portfolio
+url: https://yasel-garces.github.io/Portafolio---Yasel-Garces/
 
 permalink: /:title/
 
@@ -19,8 +19,8 @@ email: 88yasel@gmail.com
 authors:
     name: Yasel Garces
     external-image: false
-    picture: image/c.png
-    #twitter: johndoe
+    picture: image/Yasel_Image.jpg
+    #twitter:
  
 
 # do you want a larger site? change the option below
