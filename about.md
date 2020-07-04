@@ -9,13 +9,13 @@ layout: page
 
 <h2>Main Skills</h2>
 
-:mathematics: Mathematics     
+:chart: Mathematics     
 	<sup>10+ years of experience</sup>
 	
 Probabilities and Statistics      
 	<sup>10+ years of experience</sup>
 		
-Machine Learning     
+:machine_learning: Machine Learning     
 	<sup>8+ years of experience</sup>     
 	<sup>Classification, Regression, Linear Models, Ensemble Models (Bagging and Boosting), NN, Sklearn, Caret, ..
 	
