@@ -12,7 +12,10 @@
 	- [Publication](https://github.com/Yasel-Garces/Monitoring-Cytosolic-Fluorescent-Aggregates-in-Cells)    
 [	- Codes](https://www.biorxiv.org/content/10.1101/177139v1.full.pdf)
 
-:atom: Automatic detection and measurement of viral replication compartments by ellipse adjustment.    
+:straight_ruler: Automatic detection and measurement of viral replication compartments by ellipse adjustment.    
 	- [Publication](https://www.nature.com/articles/srep36505)     
 	- [Codes](https://github.com/Yasel-Garces/MatlabCodes_Automatic_Detection_and_Measurement_of_Viral_Replication_Compartments_By_Ellipse_Adjustm)
  
+:bookmark_tabs: Word Prediction.    
+	- [Slides](https://rpubs.com/Yasel88/281759)     
+	- [Shiny App](https://yasel.shinyapps.io/WordPrediction/)
