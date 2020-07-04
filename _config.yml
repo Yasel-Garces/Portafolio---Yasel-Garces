@@ -1,6 +1,6 @@
 # main text of home
 name: Yasel Garces
-bio: Strategic & Creative Data Scientist💡 Highly skilled in Machine Learning, Statistic, and Programming ♣ Bringing fast, smart and innovative solutions to complex problems. 🚀 📈.
+bio: Strategic & Creative Data Scientist💡 Highly skilled in Machine Learning, Statistic, and Programming ♣ Bringing fast, smart and innovative solutions to complex problems 🚀
 external-image: true
 picture: image/Yasel_Image.jpg
 
@@ -8,7 +8,7 @@ picture: image/Yasel_Image.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: resume/Resume Yasel Garces.pdf
+resume-url: resume/Resume_Yasel_Garces.pdf
 url: https://yasel-garces.github.io/Portafolio---Yasel-Garces/
 
 permalink: /:title/
