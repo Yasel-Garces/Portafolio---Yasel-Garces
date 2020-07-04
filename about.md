@@ -13,8 +13,13 @@ layout: page
 	<li>Mathematics </li>
 	 	<sup>10+ years of experience</sup>
 	
-	<li>*Probabilities and Statistics* (10+ years)</li>
-	<li>*Machine Learning* (8+ years)</li>
+	<li>Probabilities and Statistics</li>
+		<sup>10+ years of experience</sup>
+		
+	<li>Machine Learning</li>     
+	<sup>8+ years of experience</sup>     
+	<sup>Classification, Regression, Linear Models, Ensemble Models (Bagging and Boosting), NN, Sklearn, Caret, ...</sup>
+	
 	<li>*Deep Learning* (2+ years, Pytorch, Keras)</li>
 	<li>*Programming* (8+ years, Python, R, Matlab)</li>
 	<li>*SQL* (4+ years)</li>
