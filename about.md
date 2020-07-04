@@ -10,7 +10,7 @@ layout: page
 <h2>Main Skills</h2>
 
 <ul class="skill-list">
-	<li>Mathematics </li>
+	:spaghetti: Mathematics     
 	 	<sup>10+ years of experience</sup>
 	
 	<li>Probabilities and Statistics</li>
