@@ -9,21 +9,24 @@ layout: page
 
 <h2>Main Skills</h2>
 
-<ul class="skill-list">
-	:spaghetti: Mathematics     
-	 	<sup>10+ years of experience</sup>
+:mathematics: Mathematics     
+	<sup>10+ years of experience</sup>
 	
-	<li>Probabilities and Statistics</li>
-		<sup>10+ years of experience</sup>
+Probabilities and Statistics      
+	<sup>10+ years of experience</sup>
 		
-	<li>Machine Learning</li>     
+Machine Learning     
 	<sup>8+ years of experience</sup>     
-	<sup>Classification, Regression, Linear Models, Ensemble Models (Bagging and Boosting), NN, Sklearn, Caret, ...</sup>
+	<sup>Classification, Regression, Linear Models, Ensemble Models (Bagging and Boosting), NN, Sklearn, Caret, ..
 	
-	<li>*Deep Learning* (2+ years, Pytorch, Keras)</li>
-	<li>*Programming* (8+ years, Python, R, Matlab)</li>
-	<li>*SQL* (4+ years)</li>
-	<li>*Data Wrangling* (8+ years)</li>
-	<li>*Data Visualization* (8+ years, Seaborn, MatPlotLib, ggplot)</li>
-	<li>*Algorithm Design* (7+ years)</li>
-</ul>
+Deep Learning (2+ years, Pytorch, Keras)     
+
+Programming (8+ years, Python, R, Matlab)      
+
+SQL* (4+ years)     
+
+Data Wrangling* (8+ years)      
+
+Data Visualization (8+ years, Seaborn, MatPlotLib, ggplot)      
+
+Algorithm Design* (7+ years)
