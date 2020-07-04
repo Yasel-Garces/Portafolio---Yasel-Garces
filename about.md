@@ -9,24 +9,33 @@ layout: page
 
 <h2>Main Skills</h2>
 
-:chart: Mathematics     
+* Mathematics     
 	<sup>10+ years of experience</sup>
 	
-Probabilities and Statistics      
+* Probabilities and Statistics      
 	<sup>10+ years of experience</sup>
 		
-:machine_learning: Machine Learning     
+* Machine Learning     
 	<sup>8+ years of experience</sup>     
 	<sup>Classification, Regression, Linear Models, Ensemble Models (Bagging and Boosting), NN, Sklearn, Caret, ..
 	
-Deep Learning (2+ years, Pytorch, Keras)     
+* Deep Learning     
+	<sup>2+ years of experience</sup>     
+	<sup>NN, Convolutional NN, Recurrent NN, Generative Adversarial NN, Pytorch, Keras,...</sup>
 
-Programming (8+ years, Python, R, Matlab)      
+* Programming      
+	<sup>8+ years of experience</sup>     
+	<sup>Python, R, Matlab</sup>     
 
-SQL* (4+ years)     
+* SQL     
+	<sup>4+ years of experience</sup>     
+	<sup>MySQL, BigQuery, PostgreSQL</sup>     
 
-Data Wrangling* (8+ years)      
+* Data Wrangling*      
+	<sup>8+ years of experience</sup>     
+	<sup>Structuring, Cleaning (Missing Data, Outliers), Enriching, Validation and Publishing, Numpy, Pandas, ...</sup>     
 
-Data Visualization (8+ years, Seaborn, MatPlotLib, ggplot)      
+* Data Visualization (8+ years, Seaborn, MatPlotLib, ggplot)      
+	<sup>8+ years of experience</sup>     
+	<sup>Seaborn, MatPlotLib, ggplot</sup>     
 
-Algorithm Design* (7+ years)
