@@ -1,4 +1,4 @@
-![](image/data.png)
+![](image/data-analytics-trimmed-650.jpg)
 
  :spaghetti: [ Opening an Italian Restaurant in Atlanta](https://nbviewer.jupyter.org/github/Claudia-Perez-Ruisanchez/Opening-an-Italian-Restaurant-in-Atlanta/blob/master/NewAtlanta.ipynb)
 
