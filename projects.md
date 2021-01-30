@@ -2,7 +2,7 @@
 
  :sunrise: [The impact of weather in the coronavirus spread](https://nbviewer.jupyter.org/github/Yasel-Garces/The-impact-of-weather-in-the-coronavirus-spread/blob/master/Has%20the%20weather%20an%20impact%20on%20the%20spread%20of%20the%20coronavirus%3F.ipynb)
 
-:running: [Workout Classification](https://nbviewer.jupyter.org/github.com/Yasel-Garces/Workout-Classification/blob/master/Workout%20Classification.ipynb)
+:running: [Workout Classification](https://nbviewer.jupyter.org/github/Yasel-Garces/Workout-Classification/blob/master/Workout%20Classification.ipynb)
 
 :microscope: Nanoscale Organization of rotavirus Replication Machineries.    
 	- [Publication](https://elifesciences.org/articles/42906)     
